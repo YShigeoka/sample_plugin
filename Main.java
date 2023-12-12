@@ -87,4 +87,4 @@ public final class Main extends JavaPlugin implements Listener {
     player.getInventory().setContents(itemStacks);
   }
 }
-	
+	//PR作成用のコメントを追加しました。
